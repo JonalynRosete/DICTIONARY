@@ -3,3 +3,6 @@ Using a Python programming language with the guidlines of creating dictionary. C
 
 VIDEO OF THE DATA TYPES GUIDES
 https://youtu.be/A2Q3wBiHeRQ
+
+VIDEO OF UPLOADING THE DICTIONARY TO GITHUB
+https://youtu.be/TFSpC_-G_ew
